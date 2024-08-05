@@ -1,4 +1,9 @@
-User-Agent: *
+# *
+User-agent: *
 Allow: /
 
+# Host
+Host: https://toolswap.xyz
+
+# Sitemaps
 Sitemap: https://toolswap.xyz/sitemap.xml

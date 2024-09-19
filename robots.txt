@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cdn-cgi/
-Sitemap: https://toolswap.xyz/sitemap.xml
+Sitemap: https://toolswap.xyz/sitemap-0.xml
